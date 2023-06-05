@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(-225deg, #fffeff 0%, #d7fffe 100%);
+  background: url("backround.jpg") repeat-y;
   background-size: cover;
   font-family: "Oxygen", sans-serif;
 }
